@@ -1,0 +1,32 @@
+* /* Astric will select all elements */
+{
+    margin: 1;
+    padding: 1;
+}
+
+.center-heading 
+{
+    text-align: center;
+    margin-top: 20px; /* Adjust the margin value as desired */
+    margin-top: 20px; /* Adjust the margin value as desired */
+  border: 2px solid darkcyan; /* Set the border width and color */
+  padding: 10px; /* Add padding inside the border */
+  background-color: white; /* Set the background color */
+  color:black; 
+}
+
+body
+{
+    background-color: white;
+}
+
+
+#top-header
+{
+   background-color: black;
+   border: 1px solid red;
+   margin: 10px;
+   padding: 10px;
+   color:beige;
+   text-align: center;
+}
